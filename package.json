@@ -1,0 +1,26 @@
+{
+
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  },
+  "name": "chartinanalyze",
+  "description": "用chart.js進行圖表視覺化",
+  "version": "1.0.0",
+  "main": "function.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaTness/ChartInAnalyze.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaTness/ChartInAnalyze/issues"
+  },
+  "homepage": "https://github.com/WaTness/ChartInAnalyze#readme"
+}
